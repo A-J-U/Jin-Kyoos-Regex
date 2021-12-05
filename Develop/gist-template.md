@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Regex email Validation
 
 Regex is the abbreviated word for regular expression, this is used to detect different patterns inside a string. An example of a regular expression is validating an email address, This lets you have a much more polished database. Problems will appear if you do not validate the email addresses as people could create new email addresses that are not registered. 
 
